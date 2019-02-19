@@ -1,0 +1,44 @@
+body{
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+    box-sizing: border-box;
+}
+div{
+    height: 50px;
+    width: 50px;
+    margin: 10px;
+    padding: 25px;
+    border-radius: 25%;
+}
+.jogo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: fit-content;
+    width: 50vw;
+}
+.purple{
+    background-color: blueviolet;
+}
+.red{
+    background-color: red;
+}
+.orange{
+    background-color: orange;
+}
+.blue{
+    background-color: blue;
+}
+.pink{
+background-color: palevioletred;
+}
+.green{
+    background-color: greenyellow;
+}
+.cartaVirada{
+    background-color: black;
+}
